@@ -15,7 +15,7 @@
 
 This module is the best and most comprehensive e-Commerce module developed natively for XOOPS! 
 
-**You can fork Oledtrion on [GitHub](https://github.com/XoopsModules25x/oledrion)**
+**You can fork Oledrion on [GitHub](https://github.com/XoopsModules25x/oledrion)**
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the MyShop Module (Admin side)*
