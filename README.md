@@ -5,7 +5,7 @@
 #### for XOOPS 2.5.7
       
 
-
+![](assets/logoModule.png)
             
 ## User Manual
 ![](assets/image001.png)
