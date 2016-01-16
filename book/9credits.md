@@ -4,3 +4,5 @@ This module was developed originally by Hervé Thouzard (aka Hervet) from XOOPS 
 
 It was then enhanced by Hossein Azizabadi (aka Voltan) from XOOPS Iran. 
 
+Thank you, guys!!!!
+
