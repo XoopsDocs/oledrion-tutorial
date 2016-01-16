@@ -57,3 +57,16 @@ Let's go and view them one by one:
 ![](../assets/blocks18.png)
 ### Random Products
 ![](../assets/blocks19.png)
+
+Some of the blocks you can in action her below:
+
+![](../assets/blocks21_RecentProducts.png)
+
+![](../assets/blocks22_RandomProduct.png)
+
+![](../assets/blocks23_ProductsOnPromotion.png)
+
+
+![](../assets/blocks24_Lists.png)
+
+![](../assets/blocks25_AjaxSearch.png)
