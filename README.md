@@ -13,7 +13,7 @@
 
 ## Module Purpose 
 
-This module is for .....
+This module is the best and most comprehensive e-Commerce module developed natively for XOOPS! 
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the xLanguage Module (Admin side)*
