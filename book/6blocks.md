@@ -20,6 +20,8 @@ MyShop has several "Blocks" to make it easier for you to run your e-Commerce bus
 - Products on promotion
 - Random Products
 
+![](../assets/blocks1.png)
+
 Let's go and view them one by one:
 
 
