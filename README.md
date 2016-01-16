@@ -8,7 +8,7 @@
 ![](assets/logoModule.png)
             
 ## User Manual
-![](assets/image001.png)
+
 © 2016 XOOPS Project (www.xoops.org)    
 
 ## Module Purpose 
@@ -16,7 +16,7 @@
 This module is the best and most comprehensive e-Commerce module developed natively for XOOPS! 
 
 ![image001.png](assets/image001.png)
-*Figure 1: Main view of the xLanguage Module (Admin side)*
+*Figure 1: Main view of the MyShop Module (Admin side)*
 
 # Table of Content
 
