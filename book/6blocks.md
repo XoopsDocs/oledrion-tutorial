@@ -60,7 +60,7 @@ Let's go and view them one by one:
 ### Random Products
 ![](../assets/blocks19.png)
 
-Some of the blocks you can in action her below:
+Some of the blocks you can see in action here below:
 
 ![](../assets/blocks21_RecentProducts.png)
 
