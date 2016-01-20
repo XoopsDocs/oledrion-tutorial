@@ -10,6 +10,6 @@ Thank you, guys!!!!
 
 **Tutorial**
 
-The tutorial was created my Michael Beck (aka Mamba)
+The tutorial was created by [Michael Beck (aka Mamba)](https://github.com/mambax7)
 
 
