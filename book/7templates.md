@@ -1,6 +1,6 @@
 # 7.0 Templates
 
-Oledrion has many templates, which allows it to create a very rich experience for the user:
+Oledrion has many templates, which allows it to create a very rich experience for the user by customizing them to your needs:
 
 - oledrion_whoswho.tpl
 - oledrion_admin_discounts.tpl
