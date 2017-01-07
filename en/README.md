@@ -2,7 +2,7 @@
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Module Oledrion (MyShop)
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.8
       
 
 ![](assets/logoModule.png)
